@@ -30,3 +30,12 @@ Try it out:
 ```haskell
 (+2) ||| length $ Left 1
 ```
+
+Compare:
+```haskell
+        case vdL of
+            Left vd -> f vd
+            Right fd -> f fd
+```
+
+With ...

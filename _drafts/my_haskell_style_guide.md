@@ -2,7 +2,7 @@
 layout: post
 title:  "My Haskell style guide"
 date:   2018-03-24 23:40:00 +0100
-categories: lenses
+categories: 
 ---
 
 I'll present:
