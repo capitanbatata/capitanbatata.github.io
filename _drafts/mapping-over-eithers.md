@@ -4,6 +4,11 @@ You can convert a `Either a b` into an `Either a' b'` using `+++`:
 (+++) :: a b c -> a b' c' -> a (Either b b') (Either c c')
 ```
 
+```haskell
+(+++) :: (b -> c) -> (b' ->  c') -> (Either b b') -> (Either c c')
+```
+
+
 Examples:
 ```haskell
 show +++ length $ Left 1
