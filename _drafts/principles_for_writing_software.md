@@ -42,3 +42,5 @@ understand the right context to use it. The advantages but also the
 disadvantages. What are the trade-offs. Remember: perfection is not achieved
 when there is nothing to add, but when there's nothing to remove.
 
+An example of preferring smart over simple might be the use of
+[free-monads](https://markkarpov.com/post/free-monad-considered-harmful.html).
