@@ -7,6 +7,11 @@ Take your time to code a solution. Otherwise:
 - You won't enjoy the process.
 - Errors are likely to happen.
 
+# Focus
+
+Put your phone in silent mode. Or in the fridge. Use the pomodoro technique or
+whatever helps you keep focused. 
+
 # Be consistent
 
 - In the terminology used.
