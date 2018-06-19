@@ -27,3 +27,13 @@ In case you did not write the code as if it was the final version.
 
 Not everything can be captured in the type-system. For this use smart
 constructors that enforce invariants on data.
+
+# Strive for simplicity
+
+Just because you learned a new cool and very smart technique, it does not mean
+that it will be the right tool for the job. This might end up complicating the
+code-base unnecessarily. Whenever you learn something new, make sure you
+understand the right context to use it. The advantages but also the
+disadvantages. What are the trade-offs. Remember: perfection is not achieved
+when there is nothing to add, but when there's nothing to remove.
+
