@@ -44,3 +44,16 @@ when there is nothing to add, but when there's nothing to remove.
 
 An example of preferring smart over simple might be the use of
 [free-monads](https://markkarpov.com/post/free-monad-considered-harmful.html).
+
+
+# Working in a team
+
+## Trust is crucial
+
+Strive to maintain a good relationship with your colleagues. Make sure you
+build a network of trust. (TODO: cite Google's research)
+
+## Be mindful of your colleagues' time
+
+Choose your interruptions carefully. When doing code reviews don't write
+superficial comments (these are the easiest comments to give).
