@@ -2,7 +2,7 @@
 layout: post
 title:  "My Haskell style guide"
 date:   2018-03-24 23:40:00 +0100
-categories: 
+categories:
 ---
 
 I'll present:
@@ -21,15 +21,15 @@ You'll get more space by writing this:
 
 ```haskell
 f e ex = case ex of
-    Nothing -> foo
-    Just x  -> bar
+  Nothing -> foo
+  Just x  -> bar
 ```
 
 instead of this:
 
 ```haskell
-f e ex = 
-    case ex of
-        Nothing -> foo
-        Just x  -> bar
+f e ex =
+  case ex of
+    Nothing -> foo
+    Just x  -> bar
 ```
