@@ -10,7 +10,7 @@ Take your time to code a solution. Otherwise:
 # Focus
 
 Put your phone in silent mode. Or in the fridge. Use the pomodoro technique or
-whatever helps you keep focused. 
+whatever helps you keep focused.
 
 # Be consistent
 
@@ -57,3 +57,8 @@ build a network of trust. (TODO: cite Google's research)
 
 Choose your interruptions carefully. When doing code reviews don't write
 superficial comments (these are the easiest comments to give).
+
+# Be aware of you cognitive biases
+
+This will allow you to avoid falling into common pitfalls (for instance when
+reviewing your own work).
