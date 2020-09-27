@@ -20,6 +20,7 @@ What I did not like:
   the back support you might not be using the shoulder blades support.
 - Tilt lock mechanism is stepless. This makes it hard to reproduce your
   preferred lean angle.
+- The headrest does not come forward enough. It is not useful like this.
 
 # First try
 
@@ -41,3 +42,9 @@ different positions.
 
 I felt quite some pain between my shoulder blades. This is a new pain :) The
 pain I used to have was below my right shoulder blade.
+
+# Remaining days
+
+I was still feeling pain in the thoracic region.
+
+Locking the chair seemed to be what lessened the pain the most.
