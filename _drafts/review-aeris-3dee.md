@@ -27,6 +27,9 @@ on my wrists.
 
 Using the back support seems to bring back the thoracic back pain.
 
+Also for some reason I started experiencing pain in my left arm and shoulder. I
+do not know whether this is related to typing with my forearms on the table.
+
 The sitting area is not very comfortable: it puts more pressure on the legs
 than I would like to.
 
