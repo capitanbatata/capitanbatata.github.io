@@ -1,7 +1,13 @@
 
+What I like:
+
+- Support in the thoracic region.
+- Armrests.
+
 What I do not like:
 
 - No adjustable depth lumbar support. The chair is either for you or it isn't.
+- Seat-pan comfort.
 
 # First day
 
@@ -55,3 +61,15 @@ I lowered the armrests so that I'm only leaning on the elbows. However this
 means that I have to put the table higher than the armrests.
 
 Putting the forearms on the armrests makes my left hand hurt.
+
+The good news is: I do not feel pain in my thoracic back in the beginning.
+However I do feel pain in my lower back, but this might be due to my body
+adapting to the chair.
+
+The thoracic back pain seems to have returned after 3 hours into my workday.
+
+# Sixth day
+
+The pain in the right thigh continues.
+
+# Seventh day
