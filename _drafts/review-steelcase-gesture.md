@@ -3,11 +3,19 @@ What I like:
 
 - Support in the thoracic region.
 - Armrests.
+- Flexible backrest.
+- Sticky backrest mechanism.
 
 What I do not like:
 
 - No adjustable depth lumbar support. The chair is either for you or it isn't.
 - Seat-pan comfort.
+
+Other considerations:
+
+- For chairs with this kind of backrest mechanism, a headrest makes much more
+  sense: you'd be reclining more often since the chair promotes switching
+  position often.
 
 # First day
 
@@ -55,7 +63,7 @@ I also lowered the chair a bit to try to reduce pressure on my thighs.
 # Fifth day
 
 The chair is at its lowest position. My legs are at a 90 degree angle. I still
-feel some discomfort at the bottom of mi right thigh.
+feel some discomfort at the bottom of my right thigh.
 
 I lowered the armrests so that I'm only leaning on the elbows. However this
 means that I have to put the table higher than the armrests.
